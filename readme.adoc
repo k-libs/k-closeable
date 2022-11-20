@@ -2,6 +2,9 @@
 :source-highlighter: highlightjs
 :lib-version: 1.0.0
 
+image:https://img.shields.io/github/license/k-libs/k-closeable[]
+image:https://img.shields.io/badge/docs-dokka-brightgreen[link="https://k-libs.github.io/k-closeable/dokka/1.0.0/closeable/io.klibs.util/index.html"]
+
 Just a `Closeable` type definition in Kotlin.
 
 == Import
