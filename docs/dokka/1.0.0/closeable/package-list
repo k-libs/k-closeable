@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.klibs.util////PointingToDeclaration/closeable/io.klibs.util/index.html
+$dokka.location:io.klibs.util/Closeable///PointingToDeclaration/closeable/io.klibs.util/-closeable/index.html
+$dokka.location:io.klibs.util/Closeable/close/#/PointingToDeclaration/closeable/io.klibs.util/-closeable/close.html
+io.klibs.util
+

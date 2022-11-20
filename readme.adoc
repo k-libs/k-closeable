@@ -1,0 +1,24 @@
+= K-Closeable
+:source-highlighter: highlightjs
+:lib-version: 1.0.0
+
+Just a `Closeable` type definition in Kotlin.
+
+== Import
+
+.build.gradle.kts
+[source, kotlin, subs="verbatim,attributes"]
+----
+  implementation("io.k-libs:closeable:{lib-version}")
+----
+
+== Usage
+
+[source,kotlin]
+----
+class MyResource : Closeable {
+  override fun close() {
+    println("I've been closed!")
+  }
+}
+----
