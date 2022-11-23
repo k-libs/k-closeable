@@ -4,6 +4,7 @@
 
 image:https://img.shields.io/github/license/k-libs/k-closeable[]
 image:https://img.shields.io/badge/docs-dokka-brightgreen[link="https://k-libs.github.io/k-closeable/dokka/1.0.0/closeable/io.klibs.util/index.html"]
+image:https://img.shields.io/maven-central/v/io.k-libs/closeable[Maven Central]
 
 Just a `Closeable` interface definition in Kotlin.
 
