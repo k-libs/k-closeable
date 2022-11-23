@@ -86,7 +86,7 @@ publishing {
 
       pom {
         name.set("K-Closeable")
-        description.set("Closeable type definition.")
+        description.set(project.description)
         url.set("https://github.com/k-libs/k-closeable")
 
         licenses {

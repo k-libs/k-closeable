@@ -8,7 +8,7 @@ package io.klibs.util
  * @author Elizabeth Paige Harper - https://github.com/foxcapades
  * @since 1.0.0
  */
-interface Closeable {
+expect interface Closeable {
 
   /**
    * Closes this closable resource.
